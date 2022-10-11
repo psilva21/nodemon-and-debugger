@@ -1,0 +1,15 @@
+{
+  "name": "nodemon-and-debugger",
+  "version": "1.0.0",
+  "description": "Praticar a seção 4 do curso [Nodejs the complete guide](https://www.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11566244#overview)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Paulo Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "2.0.20"
+  }
+}
